@@ -19,3 +19,4 @@ for item in uploads_playlist_items.items:
     videos.append(item.snippet.title)
 
 print(videos)
+
